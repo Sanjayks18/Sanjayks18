@@ -70,7 +70,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Sanjay__ks?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ---
@@ -94,4 +94,4 @@
 ⭐ Thanks for visiting my profile!
 
 <!-- Snake Contribution Animation -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SanjayKs10/SanjayKs18/blob/output/github-contribution-grid-snake.svg)
