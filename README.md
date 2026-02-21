@@ -94,4 +94,4 @@
 ⭐ Thanks for visiting my profile!
 
 <!-- Snake Contribution Animation -->
-![snake gif](https://github.com/SanjayKs10/SanjayKs18/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SanjayKs18/SanjayKs18/blob/output/github-contribution-grid-snake.svg)
