@@ -10,7 +10,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
+<img src="https://komarev.com/ghpvc/?username=SanjayKs18&color=blue">
 </p>
 
 ---
